@@ -14,7 +14,7 @@
 
 ### 🚀 Sobre
 
-Gosto de transformar ideias em produtos reais e completos. Trabalho tanto na **API** quanto na **interface**, passando por banco de dados, autenticação e deploy. Meus projetos vão de gestão empresarial (ERP) a finanças pessoais, helpdesk e ferramentas do dia a dia.
+Gosto de transformar ideias em produtos reais e completos. Trabalho tanto na **API** quanto na **interface**, passando por banco de dados, autenticação e deploy. Meus projetos vão de finanças pessoais a helpdesk, player de música e ferramentas do dia a dia.
 
 ### 🛠️ Tecnologias
 
@@ -45,12 +45,12 @@ Gosto de transformar ideias em produtos reais e completos. Trabalho tanto na **A
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| [**vibe-manager**](https://github.com/VictorCabral99/vibe-manager) | ERP para construção e serviços: dashboard, projetos, estoque, financeiro e orçamentos | Next.js · Prisma · PostgreSQL |
 | [**finmanager**](https://github.com/VictorCabral99/finmanager) | Gestão financeira pessoal — monorepo com API, web e mobile | Spring Boot · Angular · React Native |
 | [**animusica**](https://github.com/VictorCabral99/animusica) | Player de música focado em animes, estilo Spotify | Angular · Node · Firebase |
 | [**tcc-helpdesk**](https://github.com/VictorCabral99/tcc-helpdesk) | Sistema de helpdesk: abertura e gestão de chamados | Java/Spring · Node/Express |
 | [**cifra-maker**](https://github.com/VictorCabral99/cifra-maker) | Criação e visualização de cifras musicais | Next.js · React · Tailwind |
 | [**generic-login-controller**](https://github.com/VictorCabral99/generic-login-controller) | Módulo reutilizável de login, usuários e permissões | Node.js · Express · Firebase |
+| [**jovens-mtm**](https://github.com/VictorCabral99/jovens-mtm) | PWA de notificações push (Web Push) com service worker | JavaScript · PWA · Web Push |
 
 ### 📊 GitHub
 

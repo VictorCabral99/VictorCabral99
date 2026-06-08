@@ -88,6 +88,7 @@ Antes, na **NTT Data (Everis)**, trabalhei como desenvolvedor fullstack com Angu
 
 | Projeto | Descrição | Stack |
 |---|---|---|
+| [**routedex**](https://github.com/VictorCabral99/routedex) | Catch 'em all por rota: encontros da PokeAPI separados por área e método (andar, surfar, pescar...), com % de conclusão e arte de capa dos jogos | React · TypeScript · Vite · Tailwind · Firebase |
 | [**finmanager**](https://github.com/VictorCabral99/finmanager) | Gestão financeira pessoal — monorepo com API, web e mobile | Spring Boot · Angular · React Native |
 | [**animusica**](https://github.com/VictorCabral99/animusica) | Player de música focado em animes, estilo Spotify | Angular · Node · Firebase |
 | [**tcc-helpdesk**](https://github.com/VictorCabral99/tcc-helpdesk) | Sistema de helpdesk: abertura e gestão de chamados | Java/Spring · Node/Express |

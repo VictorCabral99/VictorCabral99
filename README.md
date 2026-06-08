@@ -1,19 +1,20 @@
 <h1 align="center">Olá, eu sou o Victor Cabral 👋</h1>
 
 <p align="center">
-  Desenvolvedor <strong>Full-Stack</strong> — construo aplicações web de ponta a ponta, do backend ao frontend.
+  Desenvolvedor <strong>Full-Stack</strong> — construo aplicações web e mobile de ponta a ponta, do backend ao frontend.
 </p>
 
 <p align="center">
-  <a href="https://github.com/VictorCabral99?tab=repositories"><img src="https://img.shields.io/badge/Projetos-7-blue?style=flat-square" alt="Projetos" /></a>
   <img src="https://img.shields.io/badge/Foco-Full--Stack-success?style=flat-square" alt="Foco" />
+  <img src="https://img.shields.io/github/followers/VictorCabral99?label=Seguidores&style=flat-square" alt="Seguidores" />
+  <img src="https://img.shields.io/github/stars/VictorCabral99?label=Stars&style=flat-square" alt="Stars" />
 </p>
 
 ---
 
 ### 🚀 Sobre
 
-Gosto de transformar ideias em produtos reais e completos. Trabalho tanto na **API** quanto na **interface**, passando por banco de dados, autenticação e deploy. Os projetos abaixo cobrem desde gestão empresarial (ERP) até finanças pessoais e ferramentas do dia a dia.
+Gosto de transformar ideias em produtos reais e completos. Trabalho tanto na **API** quanto na **interface**, passando por banco de dados, autenticação e deploy. Meus projetos vão de gestão empresarial (ERP) a finanças pessoais, helpdesk e ferramentas do dia a dia.
 
 ### 🛠️ Tecnologias
 
@@ -28,6 +29,7 @@ Gosto de transformar ideias em produtos reais e completos. Trabalho tanto na **A
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 **Backend & Dados**
@@ -44,7 +46,9 @@ Gosto de transformar ideias em produtos reais e completos. Trabalho tanto na **A
 | Projeto | Descrição | Stack |
 |---|---|---|
 | [**vibe-manager**](https://github.com/VictorCabral99/vibe-manager) | ERP para construção e serviços: dashboard, projetos, estoque, financeiro e orçamentos | Next.js · Prisma · PostgreSQL |
-| [**finmanager-api**](https://github.com/VictorCabral99/finmanager-api) · [**finmanager-web**](https://github.com/VictorCabral99/finmanager-web) | Gestão financeira pessoal (API + frontend) | Spring Boot · Angular |
+| [**finmanager**](https://github.com/VictorCabral99/finmanager) | Gestão financeira pessoal — monorepo com API, web e mobile | Spring Boot · Angular · React Native |
+| [**animusica**](https://github.com/VictorCabral99/animusica) | Player de música focado em animes, estilo Spotify | Angular · Node · Firebase |
+| [**tcc-helpdesk**](https://github.com/VictorCabral99/tcc-helpdesk) | Sistema de helpdesk: abertura e gestão de chamados | Java/Spring · Node/Express |
 | [**cifra-maker**](https://github.com/VictorCabral99/cifra-maker) | Criação e visualização de cifras musicais | Next.js · React · Tailwind |
 | [**generic-login-controller**](https://github.com/VictorCabral99/generic-login-controller) | Módulo reutilizável de login, usuários e permissões | Node.js · Express · Firebase |
 

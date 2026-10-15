@@ -88,6 +88,10 @@ Antes, na **NTT Data (Everis)**, trabalhei como desenvolvedor fullstack com Angu
 
 | Projeto | Descrição | Stack |
 |---|---|---|
+| [**anime-downloader**](https://github.com/VictorCabral99/anime-downloader) | Busca e baixa animes PT-BR pelas extensões Aniyomi (Yuzono) via Tsunagu, com player e sincronização AniList/MAL | Next.js · TypeScript · Tailwind |
+| [**kindle-manager**](https://github.com/VictorCabral99/kindle-manager) | Gerenciador local de livros e mangás para Kindle (Calibre, Suwayomi e MTP) | Next.js · TypeScript · Tailwind |
+| [**HuniePop-PT-BR**](https://github.com/VictorCabral99/HuniePop-PT-BR) | Tradução não oficial (só texto) do HuniePop para português do Brasil — patch drop-in | Python |
+| [**Game-Aggregator**](https://github.com/VictorCabral99/Game-Aggregator) | Agrega bibliotecas Steam, GOG, Epic e Amazon, com notas RAWG/Metacritic e promoções na wishlist | Next.js · TypeScript · Prisma · Tailwind |
 | [**routedex**](https://github.com/VictorCabral99/routedex) | Catch 'em all por rota: encontros da PokeAPI separados por área e método (andar, surfar, pescar...), com % de conclusão e arte de capa dos jogos | React · TypeScript · Vite · Tailwind · Firebase |
 | [**finmanager**](https://github.com/VictorCabral99/finmanager) | Gestão financeira pessoal — monorepo com API, web e mobile | Spring Boot · Angular · React Native |
 | [**animusica**](https://github.com/VictorCabral99/animusica) | Player de música focado em animes, estilo Spotify | Angular · Node · Firebase |
